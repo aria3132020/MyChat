@@ -1,0 +1,38 @@
+[
+  {
+    "name": "reza",
+    "password": "reza@reza.com",
+    "email": "reza@reza.com",
+    "username": "reza@reza.com"
+  },
+  {
+    "name": "hame",
+    "password": "hamed1234",
+    "email": "h@h.com",
+    "username": "h@h.com"
+  },
+  {
+    "name": "hamed",
+    "password": "hamed1234",
+    "email": "h@h.com",
+    "username": "hamed"
+  },
+  {
+    "name": "hamed",
+    "password": "hamed1234",
+    "email": "h1@h.com",
+    "username": "hamed"
+  },
+  {
+    "name": "hamed",
+    "password": "hamed1234",
+    "email": "h1@h.com",
+    "username": "hamed"
+  },
+  {
+    "name": "hamed",
+    "password": "hamed1234",
+    "email": "h1@h.com",
+    "username": "hamed"
+  }
+]
